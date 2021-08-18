@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeWishListFormswithDll", "ShoeWishListFormswithDll\ShoeWishListFormswithDll.csproj", "{C57C4984-C8BA-4C9C-ABD2-A40D173D8082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoesCL", "..\ShoesCL\ShoesCL\ShoesCL.csproj", "{FFF66DBF-F564-4C81-BA68-10A4531BA858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57C4984-C8BA-4C9C-ABD2-A40D173D8082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57C4984-C8BA-4C9C-ABD2-A40D173D8082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57C4984-C8BA-4C9C-ABD2-A40D173D8082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57C4984-C8BA-4C9C-ABD2-A40D173D8082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF66DBF-F564-4C81-BA68-10A4531BA858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF66DBF-F564-4C81-BA68-10A4531BA858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF66DBF-F564-4C81-BA68-10A4531BA858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF66DBF-F564-4C81-BA68-10A4531BA858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0581DFEE-FEC1-4E6E-A1CC-14B409E93CFD}
+	EndGlobalSection
+EndGlobal
